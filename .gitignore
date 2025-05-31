@@ -196,5 +196,5 @@ cython_debug/
 # mac hidden file
 .DS_Store
 
-# datasets
-datasets/
+# predictions_df file
+predictions_df.csv
